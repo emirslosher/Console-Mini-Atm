@@ -1,0 +1,7 @@
+C:\Users\emirs\source\repos\KonsolMiniAtm\KonsolMiniAtm\bin\Debug\KonsolMiniAtm.exe.config
+C:\Users\emirs\source\repos\KonsolMiniAtm\KonsolMiniAtm\bin\Debug\KonsolMiniAtm.exe
+C:\Users\emirs\source\repos\KonsolMiniAtm\KonsolMiniAtm\bin\Debug\KonsolMiniAtm.pdb
+C:\Users\emirs\source\repos\KonsolMiniAtm\KonsolMiniAtm\obj\Debug\KonsolMiniAtm.csproj.AssemblyReference.cache
+C:\Users\emirs\source\repos\KonsolMiniAtm\KonsolMiniAtm\obj\Debug\KonsolMiniAtm.csproj.CoreCompileInputs.cache
+C:\Users\emirs\source\repos\KonsolMiniAtm\KonsolMiniAtm\obj\Debug\KonsolMiniAtm.exe
+C:\Users\emirs\source\repos\KonsolMiniAtm\KonsolMiniAtm\obj\Debug\KonsolMiniAtm.pdb
